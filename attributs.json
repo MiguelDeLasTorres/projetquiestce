@@ -1,0 +1,33 @@
+[ {"clef" : "couleur des cheveux",
+  "valeurs" : [ "blond", "brun","roux", "blanc", "noir" ]
+}, {
+  "clef" : "longueur des cheveux",
+  "valeurs" : [ "long", "court", "chauve" ]
+  },{
+  "clef" : "couleur des yeux",
+  "valeurs" : [ "bleu", "marron", "vert" ]
+}, {
+  "clef" : "lunettes",
+  "valeurs" : [ "oui", "non" ]
+},{
+  "clef" : "moustache",
+  "valeurs" : [ "oui", "non" ]
+}, {
+  "clef" : "barbe",
+  "valeurs" : [ "oui", "non" ]
+}, {
+  "clef" : "chapeau",
+  "valeurs" : [ "oui", "non" ]
+}, {
+  "clef" : "nez",
+  "valeurs" : [ "petit", "grand" ]
+}, {
+  "clef" : "boucles d'oreilles",
+  "valeurs" : [ "oui", "non" ]
+}, {
+  "clef" : "joues",
+  "valeurs" : [ "roses", "pales" ]
+}, {
+  "clef" : "genre",
+  "valeurs" : [ "homme", "femme" ]
+  }]

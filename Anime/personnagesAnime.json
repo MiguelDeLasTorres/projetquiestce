@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Joris",
+    "filepath": "Anime/aleduwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "roux"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "vert"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "homme"
+      }
+    ]
+  },
+  {
+    "name": "Janine",
+    "filepath": "Anime/blackreduwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "violet"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jackline",
+    "filepath": "Anime/blondbrownuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "blond"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "marron"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jane",
+    "filepath": "Anime/blonduwuw.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "blond"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "bleu"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Joslene",
+    "filepath": "Anime/blonggreen.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "blond"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "vert"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jade",
+    "filepath": "Anime/bluegreenuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "bleu"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "vert"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "noeud papillon"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jonquille",
+    "filepath": "Anime/blueruwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "bleu"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "rouge"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "noeud papillon"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jasmine",
+    "filepath": "Anime/brownew.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "brun"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "marron"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie au milieu"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jadette",
+    "filepath": "Anime/browneyeuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "rose"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "marron"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jujube",
+    "filepath": "Anime/curseduwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Janette",
+    "filepath": "Anime/fatmouthuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "rose"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "bleu"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie a droite"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jument",
+    "filepath": "Anime/fullblueuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "bleu"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "violet"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jolie",
+    "filepath": "Anime/greeneye.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "brun"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "vert"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Julienne",
+    "filepath": "Anime/greeneyeuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "violet"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "vert"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Judas",
+    "filepath": "Anime/griffithuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "blond"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "bleu"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie au milieu"
+      },
+      {
+        "clef": "genre",
+        "valeur": "homme"
+      }
+    ]
+  },
+  {
+    "name": "Jaquette",
+    "filepath": "Anime/grossejoueuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "roux"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "vert"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie a droite"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Joule",
+    "filepath": "Anime/longuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "roux"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "bleu"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jumanji",
+    "filepath": "Anime/pinkuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "rose"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "bleu"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jolette",
+    "filepath": "Anime/purplebuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "brun"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "violet"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Julie",
+    "filepath": "Anime/purpleuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "violet"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "violet"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "noeud papillon"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Justine",
+    "filepath": "Anime/redgreenuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "roux"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "vert"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jokovic",
+    "filepath": "Anime/reduwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "brun"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "rouge"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie a gauche"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jubile",
+    "filepath": "Anime/veryreduwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "rouge"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "bleu"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  },
+  {
+    "name": "Jallaladawu",
+    "filepath": "Anime/yellowuwu.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "brun"
+      },
+      {
+        "clef": "couleurs des yeux",
+        "valeur": "jaune"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "genre",
+        "valeur": "femme"
+      }
+    ]
+  }
+]

@@ -1,0 +1,889 @@
+[ {
+  "name" : "Samuel",
+  "filepath" : "personnagesImages/imageonline-co-split-image-1.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blanc" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "chauve" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "oui"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+  }]
+}, {
+  "name" : "Leon",
+  "filepath" : "personnagesImages/imageonline-co-split-image-2.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blond" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "oui"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Simon",
+  "filepath" : "personnagesImages/imageonline-co-split-image-3.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blanc" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "oui"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Martin",
+  "filepath" : "personnagesImages/imageonline-co-split-image-4.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blanc" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Luc",
+  "filepath" : "personnagesImages/imageonline-co-split-image-5.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "noir" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "roses" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Clara",
+  "filepath" : "personnagesImages/imageonline-co-split-image-6.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "roux" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "longs" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "oui"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "femme"
+    }]
+},{
+  "name" : "Anita",
+  "filepath" : "personnagesImages/imageonline-co-split-image-7.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blond" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "long" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "bleu"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "roses" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "femme"
+    }]
+},{
+  "name" : "Alfred",
+  "filepath" : "personnagesImages/imageonline-co-split-image-8.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "roux" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "long" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "bleu"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "oui" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Suzane",
+  "filepath" : "personnagesImages/imageonline-co-split-image-9.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blanc" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "long" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "femme"
+    }]
+},{
+  "name" : "Romeo",
+  "filepath" : "personnagesImages/imageonline-co-split-image-10.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "brun" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "chauve" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "oui" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Omar",
+  "filepath" : "personnagesImages/imageonline-co-split-image-11.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "roux" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Manu",
+  "filepath" : "personnagesImages/imageonline-co-split-image-12.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "brun" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "oui" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "grand"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Lucas",
+  "filepath" : "personnagesImages/imageonline-co-split-image-13.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "roux" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "chauve" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "grand"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Mario",
+  "filepath" : "personnagesImages/imageonline-co-split-image-14.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blond" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Jeremie",
+  "filepath" : "personnagesImages/imageonline-co-split-image-15.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "roux" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "grand"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Max",
+  "filepath" : "personnagesImages/imageonline-co-split-image-16.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "noir" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "oui" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Timeo",
+  "filepath" : "personnagesImages/imageonline-co-split-image-17.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "noir" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "chauve" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "bleu"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "oui"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Oscar",
+  "filepath" : "personnagesImages/imageonline-co-split-image-18.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "brun" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "long" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "bleu"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "grand"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Eric",
+  "filepath" : "personnagesImages/imageonline-co-split-image-19.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blanc" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "bleu"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "grand"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Maria",
+  "filepath" : "personnagesImages/imageonline-co-split-image-20.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "roux" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "long" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "femme"
+    }]
+},{
+  "name" : "Tony",
+  "filepath" : "personnagesImages/imageonline-co-split-image-21.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "roux" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "chauve" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "roses" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Felix",
+  "filepath" : "personnagesImages/imageonline-co-split-image-22.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blond" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Charlie",
+  "filepath" : "personnagesImages/imageonline-co-split-image-23.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "blond" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "court" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "oui" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "petit"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "homme"
+    }]
+},{
+  "name" : "Anna",
+  "filepath" : "personnagesImages/imageonline-co-split-image-24.png",
+  "valeurs" : [ {
+    "clef" : "couleur des cheveux",
+    "valeur" : "noir" 
+  },{
+    "clef" : "longueur des cheveux",
+    "valeur" : "long" 
+  }, {
+    "clef" : "couleur des yeux",
+    "valeur" : "marron"
+  }, {
+    "clef" : "lunettes",
+    "valeur" : "non"
+  },{
+    "clef" : "moustache",
+    "valeur" : "non" 
+  }, {
+    "clef" : "barbe",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "chapeau",
+    "valeur" :  "non" 
+  }, {
+    "clef" : "nez",
+    "valeur" : "grand"
+  }, {
+    "clef" : "boucles d'oreilles",
+    "valeur" :  "oui" 
+  }, {
+    "clef" : "joues",
+    "valeur" : "pales" 
+  }, {
+    "clef" : "genre",
+    "valeur" : "femme"
+  }]
+}]

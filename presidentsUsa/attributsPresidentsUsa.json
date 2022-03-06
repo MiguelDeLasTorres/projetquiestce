@@ -1,0 +1,34 @@
+[ {"clef" : "couleur des cheveux",
+  "valeurs" : [ "blond", "brun","roux", "blanc", "noir" ]
+}, {
+  "clef" : "longueur des cheveux",
+  "valeurs" : [ "normale", "court", "chauve" ]
+  }, {
+  "clef" : "lunettes",
+  "valeurs" : [ "oui", "non" ]
+},{
+  "clef" : "couleur des yeux",
+  "valeurs" : [ "sombres", "clairs" ]
+},{
+  "clef" : "coiffure",
+  "valeurs" : [ "frange", "chauve", "raie gauche", "raie droite" ]
+}, {
+  "clef" : "nez",
+  "valeurs" : [ "pointu", "rond" ]
+}, {
+  "clef" : "expression",
+  "valeurs" : [ "serieuse", "joviale", "inquietante" ]
+}, {
+  "clef" : "menton",
+  "valeurs" : [ "rond", "pointu" ]
+}, {
+  "clef" : "joues",
+  "valeurs" : [ "normales", "creusees", "rebondies" ]
+  },{
+    "clef" : "sourcils",
+    "valeurs" : [ "fins", "epais" ]
+  },{
+    "clef" : "peau",
+    "valeurs" : [ "ride", "normale" ]
+  }
+]

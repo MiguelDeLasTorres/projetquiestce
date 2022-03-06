@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="647.0" prefWidth="938.0" stylesheets="@application.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="helloworld.SampleController">
+   <top>
+      <VBox BorderPane.alignment="CENTER">
+         <children>
+            <MenuBar>
+              <menus>
+                <Menu mnemonicParsing="false" text="File">
+                  <items>
+                        <MenuItem mnemonicParsing="false" onAction="#newButton" text="Nouvelle partie" />
+                        <MenuItem fx:id="fileOpen" mnemonicParsing="false" onAction="#openButtonClick" onMenuValidation="#openButtonClick" text="Ouvrir..." />
+                        <SeparatorMenuItem mnemonicParsing="false" />
+                        <MenuItem mnemonicParsing="false" onAction="#saveClick" text="Save" />
+                        <SeparatorMenuItem mnemonicParsing="false" />
+                        <MenuItem mnemonicParsing="false" onAction="#openPersonnageClick" text="Ouvrir JSON personnages..." />
+                        <MenuItem mnemonicParsing="false" onAction="#openAttributClick" text="Ouvrir JSON attribut..." />
+                        <SeparatorMenuItem mnemonicParsing="false" />
+                        <MenuItem mnemonicParsing="false" onAction="#easyWin" text="EasyWin" />
+                        <SeparatorMenuItem mnemonicParsing="false" />
+                    <MenuItem fx:id="exitButton" mnemonicParsing="false" onAction="#exitButton" text="Fermer" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Aide">
+                  <items>
+                    <MenuItem mnemonicParsing="false" onAction="#helpButton" text="?" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+         </children>
+      </VBox>
+   </top>
+   <bottom>
+      <VBox BorderPane.alignment="CENTER">
+         <children>
+            <StackPane>
+               <children>
+                  <Label fx:id="status">
+                     <font>
+                        <Font name="Noto Sans Bold" size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </StackPane>
+            <GridPane fx:id="buttonHolder" hgap="10.0" prefHeight="32.0" prefWidth="724.0">
+              <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="431.0" minWidth="10.0" prefWidth="281.0" />
+                  <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="431.0" minWidth="10.0" prefWidth="97.0" />
+                  <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="431.0" minWidth="10.0" prefWidth="92.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <StackPane layoutX="203.0" layoutY="63.0" prefHeight="150.0" prefWidth="200.0">
+                     <children>
+                        <ComboBox fx:id="selectionAttribut" onAction="#setValeurs" prefWidth="150.0" promptText="Choisir un Attribut" />
+                     </children>
+                  </StackPane>
+                  <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="2">
+                     <children>
+                        <Button fx:id="addButton" mnemonicParsing="false" onAction="#addButtonClick" text="Ajouter" />
+                     </children>
+                  </StackPane>
+                  <StackPane prefHeight="150.0" prefWidth="200.0" GridPane.columnIndex="3">
+                     <children>
+                        <Button fx:id="cancelButton" mnemonicParsing="false" onAction="#cancelButtonClick" text="Annuler" />
+                     </children>
+                  </StackPane>
+                  <StackPane layoutX="247.0" layoutY="10.0" prefHeight="28.0" prefWidth="371.0" GridPane.columnIndex="1">
+                     <children>
+                        <ComboBox fx:id="selectionValeurs" onAction="#selectionValeurClick" prefHeight="25.0" prefWidth="164.0" promptText="Choisir une Valeur" />
+                     </children>
+                  </StackPane>
+               </children>
+               <VBox.margin>
+                  <Insets left="100.0" right="100.0" top="20.0" />
+               </VBox.margin>
+            </GridPane>
+            <StackPane prefHeight="32.0" prefWidth="938.0">
+               <children>
+                  <Label fx:id="listeAttribut" wrapText="true">
+                     <font>
+                        <Font name="Noto Sans Bold" size="18.0" />
+                     </font></Label>
+               </children>
+            </StackPane>
+            <StackPane prefHeight="32.0" prefWidth="938.0">
+               <children>
+                  <Button fx:id="validButton" mnemonicParsing="false" onAction="#valideButtonClick" text="Valider" />
+               </children>
+            </StackPane>
+            <HBox prefHeight="0.0" prefWidth="938.0">
+               <children>
+                  <Label alignment="BOTTOM_LEFT" prefHeight="17.0" prefWidth="837.0" text="Qui-est-ce ?">
+                     <HBox.margin>
+                        <Insets bottom="2.0" left="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="labelCompteur" alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="125.0" text="Tour : 999">
+                     <HBox.margin>
+                        <Insets bottom="2.0" right="5.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+               <VBox.margin>
+                  <Insets top="3.0" />
+               </VBox.margin>
+            </HBox>
+         </children>
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+      </VBox>
+   </bottom>
+   <right>
+      <VBox prefHeight="484.0" prefWidth="206.0" BorderPane.alignment="CENTER">
+         <children>
+            <Region prefHeight="54.0" prefWidth="206.0" />
+            <StackPane prefHeight="150.0" prefWidth="200.0">
+               <children>
+                  <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="file:images/quiestce.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </StackPane>
+            <Region prefHeight="37.0" prefWidth="206.0" />
+            <StackPane prefHeight="150.0" prefWidth="200.0">
+               <children>
+                  <ImageView fx:id="Inconnu" fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                     <viewport>
+                        <Rectangle2D />
+                     </viewport>
+                     <image>
+                        <Image url="file:images/anonymity.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </StackPane>
+         </children>
+         <BorderPane.margin>
+            <Insets bottom="10.0" right="10.0" top="10.0" />
+         </BorderPane.margin>
+      </VBox>
+   </right>
+   <center>
+      <GridPane fx:id="grid" BorderPane.alignment="CENTER">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <BorderPane.margin>
+            <Insets left="10.0" top="10.0" />
+         </BorderPane.margin>
+         <padding>
+            <Insets left="5.0" />
+         </padding>
+      </GridPane>
+   </center>
+</BorderPane>

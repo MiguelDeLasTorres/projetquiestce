@@ -1,0 +1,44 @@
+[
+  {
+    "clef": "couleur des cheveux",
+    "valeurs": [
+      "blond",
+      "brun",
+      "roux",
+      "bleu",
+      "noir",
+      "rose",
+      "rouge",
+      "violet"
+    ]
+  },
+  {
+    "clef": "couleurs des yeux",
+    "valeurs": [
+      "bleu",
+      "vert",
+      "rouge",
+      "violet",
+      "noir",
+      "marron",
+      "jaune"
+    ]
+  },
+  {
+    "clef": "coiffure",
+    "valeurs": [
+      "frange",
+      "raie a gauche",
+      "raie a droite",
+      "noeud papillon",
+      "raie au milieu"
+    ]
+  },
+  {
+    "clef": "genre",
+    "valeurs": [
+      "homme",
+      "femme"
+    ]
+  }
+]

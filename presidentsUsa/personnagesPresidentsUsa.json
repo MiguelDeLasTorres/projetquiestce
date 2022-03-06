@@ -1,0 +1,952 @@
+[
+  {
+    "name": "Taft",
+    "filepath": "presidentsUsa/27-taft.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombre"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie gauche"
+      },
+      {
+        "clef": "nez",
+        "valeur": "rond"
+      },
+      {
+        "clef": "expression",
+        "valeur": "serieuse"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Wilson",
+    "filepath": "presidentsUsa/28-wilson.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "blanc"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "court"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "oui"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "claire"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie gauche"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "serieuse"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "ride"
+      }
+    ]
+  },
+  {
+    "name": "Harding",
+    "filepath": "presidentsUsa/29-harding.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "gris"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombre"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie droite"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "inquietante"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "rebondies"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "epais"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Coolidge",
+    "filepath": "presidentsUsa/30-coolidge.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "court"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "claire"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie gauche"
+      },
+      {
+        "clef": "nez",
+        "valeur": "rond"
+      },
+      {
+        "clef": "expression",
+        "valeur": "serieuse"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Hoover",
+    "filepath": "presidentsUsa/31-hoover.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "gris"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "court"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie gauche"
+      },
+      {
+        "clef": "nez",
+        "valeur": "rond"
+      },
+      {
+        "clef": "expression",
+        "valeur": "joviale"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "rebondies"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Roosevelt",
+    "filepath": "presidentsUsa/32-roosevelt.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "brun"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie gauche"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "serieuse"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "epais"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Truman",
+    "filepath": "presidentsUsa/33-truman.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "gris"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "court"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "oui"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie gauche"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "serieuse"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "rebondies"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Eisenhower",
+    "filepath": "presidentsUsa/34-eisenhower.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "chauve"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "chauve"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "serieuse"
+      },
+      {
+        "clef": "menton",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Kennedy",
+    "filepath": "presidentsUsa/35-kennedy.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "brun"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "inquietante"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "rebondies"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "ride"
+      }
+    ]
+  },
+  {
+    "name": "Johnson",
+    "filepath": "presidentsUsa/36-johnson.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "gris"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "court"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie gauche"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "serieuse"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "rebondies"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "epais"
+      },
+      {
+        "clef": "peau",
+        "valeur": "ride"
+      }
+    ]
+  },
+  {
+    "name": "Nixon",
+    "filepath": "presidentsUsa/37-nixon.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "joviale"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "rebondies"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "epais"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Ford",
+    "filepath": "presidentsUsa/38-ford.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "court"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "chauve"
+      },
+      {
+        "clef": "nez",
+        "valeur": "rond"
+      },
+      {
+        "clef": "expression",
+        "valeur": "joviale"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Carter",
+    "filepath": "presidentsUsa/39-carter.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "gris"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie droite"
+      },
+      {
+        "clef": "nez",
+        "valeur": "rond"
+      },
+      {
+        "clef": "expression",
+        "valeur": "joviale"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Reagan",
+    "filepath": "presidentsUsa/40-Reagan.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie droite"
+      },
+      {
+        "clef": "nez",
+        "valeur": "rond"
+      },
+      {
+        "clef": "expression",
+        "valeur": "joviale"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "epais"
+      },
+      {
+        "clef": "peau",
+        "valeur": "ride"
+      }
+    ]
+  },
+  {
+    "name": "Bush",
+    "filepath": "presidentsUsa/43-bush.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "gris"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "clairs"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie gauche"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "joviale"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Clinton",
+    "filepath": "presidentsUsa/42-clinton.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "blond"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "clairs"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie droite"
+      },
+      {
+        "clef": "nez",
+        "valeur": "rond"
+      },
+      {
+        "clef": "expression",
+        "valeur": "joviale"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Obama",
+    "filepath": "presidentsUsa/44-Obama.jpg",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "noir"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "court"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "sombres"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "courte"
+      },
+      {
+        "clef": "nez",
+        "valeur": "rond"
+      },
+      {
+        "clef": "expression",
+        "valeur": "serieuse"
+      },
+      {
+        "clef": "menton",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "epais"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  },
+  {
+    "name": "Trump",
+    "filepath": "presidentsUsa/45-donald-trump.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "blond"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "normale"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "clairs"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "frange"
+      },
+      {
+        "clef": "nez",
+        "valeur": "rond"
+      },
+      {
+        "clef": "expression",
+        "valeur": "joviale"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "rebondies"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "ride"
+      }
+    ]
+  },
+  {
+    "name": "Biden",
+    "filepath": "presidentsUsa/46-joe-biden.png",
+    "valeurs": [
+      {
+        "clef": "couleur des cheveux",
+        "valeur": "blanc"
+      },
+      {
+        "clef": "longueur des cheveux",
+        "valeur": "court"
+      },
+      {
+        "clef": "lunettes",
+        "valeur": "non"
+      },
+      {
+        "clef": "couleur des yeux",
+        "valeur": "clairs"
+      },
+      {
+        "clef": "coiffure",
+        "valeur": "raie gauche"
+      },
+      {
+        "clef": "nez",
+        "valeur": "pointu"
+      },
+      {
+        "clef": "expression",
+        "valeur": "joviale"
+      },
+      {
+        "clef": "menton",
+        "valeur": "rond"
+      },
+      {
+        "clef": "joues",
+        "valeur": "normales"
+      },
+      {
+        "clef": "sourcils",
+        "valeur": "fins"
+      },
+      {
+        "clef": "peau",
+        "valeur": "normale"
+      }
+    ]
+  }
+]
