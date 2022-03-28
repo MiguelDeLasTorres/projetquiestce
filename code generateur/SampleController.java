@@ -43,9 +43,24 @@ public class SampleController implements Initializable{
 	Personnage[] listPersonnage;
 	JacksonParser parser = new JacksonParser();
 	
+    private static String OS = System.getProperty("os.name").toLowerCase();
 	
+    public static boolean isWindows() {
+        return (OS.indexOf("win") >= 0);
+    }
+
+    public static boolean isMac() {
+        return (OS.indexOf("mac") >= 0);
+    }
+
+    public static boolean isUnix() {
+        return (OS.indexOf("nix") >= 0
+                || OS.indexOf("nux") >= 0
+                || OS.indexOf("aix") > 0);
+    }
+    
 	/*
-	 * Set la liste d'image listImages avec les images présent dans le dossier sélectionné, et affiche la premier image
+	 * Set la liste d'image listImages avec les images prï¿½sent dans le dossier sï¿½lectionnï¿½, et affiche la premier image
 	 */
 	@FXML
 	public void fileButtonClick() {
@@ -55,7 +70,7 @@ public class SampleController implements Initializable{
 		String[] images = null;
 		imagePreview.setImage(null);
 		listImages.clear();
-		//On vérifie si un dossier est sélectionné puis si il y a des images
+		//On vï¿½rifie si un dossier est sï¿½lectionnï¿½ puis si il y a des images
 		try {
 			try {
 				images = directory.list(new FilenameFilter() {
@@ -69,21 +84,25 @@ public class SampleController implements Initializable{
 					}
 				});
 				for (String string : images) {
-					listImages.add("file:"+directory.getAbsolutePath()+"\\"+string);
+					if (isWindows()) {
+						listImages.add("file:"+directory.getAbsolutePath()+"\\"+string);
+					}else if (isUnix() || isMac()){
+						listImages.add("file:"+directory.getAbsolutePath()+"/"+string);						
+					}
 				}
 				listPersonnage = new Personnage[listImages.size()];
 				Image first = new Image(listImages.get(indexPersonnage));
 				imagePreview.setImage(first);
 			}catch (IndexOutOfBoundsException e) {
-				status.setText("Le dossier sélectionné ne contient pas d'images !");
+				status.setText("Le dossier sï¿½lectionnï¿½ ne contient pas d'images !");
 			}
 		}catch (NullPointerException e) {
-			status.setText("Veuillez sélectionner un dossier !");
+			status.setText("Veuillez sï¿½lectionner un dossier !");
 		}
 	}
 	
 	/*
-	 * Flèche gauche et droite permettant de changer de personnage
+	 * Flï¿½che gauche et droite permettant de changer de personnage
 	 */
 	
 	public void leftArrowClick() {
@@ -93,7 +112,7 @@ public class SampleController implements Initializable{
 			else {indexPersonnage=listImages.size()-1;}
 			try {
 				resetAllValue();
-				setPreview(listPersonnage[indexPersonnage]);//On vérifie si il y a un personnage à l'index demandé sinon on crée un page vierge
+				setPreview(listPersonnage[indexPersonnage]);//On vï¿½rifie si il y a un personnage ï¿½ l'index demandï¿½ sinon on crï¿½e un page vierge
 				}
 			catch (NullPointerException e) {
 				resetAllValue();
@@ -111,7 +130,7 @@ public class SampleController implements Initializable{
 			else {indexPersonnage = 0;}
 			try {
 				resetAllValue();
-				setPreview(listPersonnage[indexPersonnage]);//On vérifie si il y a un personnage à l'index demandé sinon on crée un page vierge
+				setPreview(listPersonnage[indexPersonnage]);//On vï¿½rifie si il y a un personnage ï¿½ l'index demandï¿½ sinon on crï¿½e un page vierge
 				}
 			catch (NullPointerException e) {
 				resetAllValue();
@@ -189,7 +208,7 @@ public class SampleController implements Initializable{
 	}
 	
 	/*
-	 * Pour ajouter les valeurs au tableau de valeurs associées au personnage sélectionné.
+	 * Pour ajouter les valeurs au tableau de valeurs associï¿½es au personnage sï¿½lectionnï¿½.
 	 */
 	
 	public void setPreview(Personnage pers) {
@@ -270,7 +289,7 @@ public class SampleController implements Initializable{
 			setPreview(listPersonnage[indexPersonnage]);
 			resetValue();
 		}else {
-			status.setText("Vous n'avez pas sélectionné de dossier");
+			status.setText("Vous n'avez pas sï¿½lectionnï¿½ de dossier");
 		}
 	}
 	
@@ -285,16 +304,16 @@ public class SampleController implements Initializable{
 				try {
 					parser.EnregistrerAttributs("Attribut.json", listAttribut);
 					parser.EnregistrerPersonnages("Personnage.json", listPersonnage);
-					status.setText("Vous avez sauvegardé !");
+					status.setText("Vous avez sauvegardï¿½ !");
 				}catch (IOException e){
 					status.setText("Erreur lors de la sauvegarde !");
 					e.printStackTrace();
 				}
 			}else {
-				status.setText("Vous n'avez pas complété les caractèristiques de chaque personnages !");
+				status.setText("Vous n'avez pas complï¿½tï¿½ les caractï¿½ristiques de chaque personnages !");
 			}
 		}catch(NullPointerException e) {
-			status.setText("Vous n'avez rien à sauvegarder !");
+			status.setText("Vous n'avez rien ï¿½ sauvegarder !");
 		}
 		
 	}
