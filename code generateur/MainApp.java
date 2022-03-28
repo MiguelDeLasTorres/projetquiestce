@@ -18,10 +18,13 @@ public class MainApp extends Application {
 	public void start(Stage primaryStage) throws Exception{
 		Parent root = FXMLLoader.load(getClass().getResource("Sample.fxml"));
 		Scene scene = new Scene(root,800,750 );
+		primaryStage.setTitle("GÃ©nÃ©rateur");
 		scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 		primaryStage.setMinWidth(800);
 		primaryStage.setMinHeight(750);
-		//On vous offre 1 pixel par côté de rien
+		primaryStage.setMaxWidth(801);
+		primaryStage.setMaxHeight(751);
+		//On vous offre 1 pixel par cï¿½tï¿½ de rien
 		primaryStage.getIcons().add(new Image("file:images/spyware.png"));
 		primaryStage.setScene(scene);
 		primaryStage.show();
