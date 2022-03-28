@@ -56,7 +56,11 @@ public class SampleController implements Initializable{
 	
 	public void addLabels(GridPane grid, int width, ArrayList<String> images) {
 		for(int j=0; j < images.size(); j++) {
+			
 			Image image = new Image("file:"+images.get(j));
+			if (image.isError()) {
+				image = new Image(images.get(j));
+			}
 			ImageView iv = new ImageView(image);
 			iv.setFitHeight(100);
 			iv.setFitWidth(100);
@@ -291,6 +295,9 @@ public class SampleController implements Initializable{
 
         Label label = new Label("Félicitation, vous m'avez trouvé\n Je suis " + game.getPR().getName());
         Image image = new Image("file:"+game.getPR().getFilepath());
+        if (image.isError()) {
+			image = new Image(game.getPR().getFilepath());
+		}
         Button okButton = new Button("OK !");
         okButton.setOnAction(e -> {
         	stage.close();
